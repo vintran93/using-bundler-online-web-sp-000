@@ -8,5 +8,6 @@ group :development do
 gem "pry"
 end
 
-group 
+group :test do
 gem "rspec"
+end
